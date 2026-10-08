@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Task resource PDFs (kept locally, not committed)
+resources/*.pdf
+
+# Personal reference repos (not part of this project)
+coding standard/
